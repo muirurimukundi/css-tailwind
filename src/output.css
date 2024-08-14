@@ -553,3 +553,11 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.font-bold {
+  font-weight: 700;
+}
+
+.underline {
+  text-decoration-line: underline;
+}
