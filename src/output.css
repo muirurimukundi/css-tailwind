@@ -558,6 +558,10 @@ video {
   margin-top: 1rem;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .px-16 {
   padding-left: 4rem;
   padding-right: 4rem;
