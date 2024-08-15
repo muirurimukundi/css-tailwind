@@ -632,6 +632,12 @@ video {
   }
 }
 
+@media (min-width: 768px) {
+  .md\:justify-end {
+    justify-content: flex-end;
+  }
+}
+
 @media (min-width: 1024px) {
   .lg\:text-lg {
     font-size: 1.125rem;
