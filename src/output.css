@@ -562,6 +562,14 @@ video {
   margin-top: 2rem;
 }
 
+.flex {
+  display: flex;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
 .px-16 {
   padding-left: 4rem;
   padding-right: 4rem;
@@ -628,6 +636,16 @@ video {
   .lg\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
+  }
+
+  .lg\:text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
+  }
+
+  .lg\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
   }
 
   .lg\:text-blue-500 {
