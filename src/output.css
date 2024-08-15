@@ -623,3 +623,15 @@ video {
     color: rgb(239 68 68 / var(--tw-text-opacity));
   }
 }
+
+@media (min-width: 1024px) {
+  .lg\:text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  .lg\:text-blue-500 {
+    --tw-text-opacity: 1;
+    color: rgb(59 130 246 / var(--tw-text-opacity));
+  }
+}
