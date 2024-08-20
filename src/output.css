@@ -590,6 +590,10 @@ video {
   width: 20rem;
 }
 
+.w-full {
+  width: 100%;
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
