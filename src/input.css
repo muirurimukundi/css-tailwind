@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.card {
+  @apply relative mt-8 rounded-md bg-white overflow-hidden shadow
+}
